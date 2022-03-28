@@ -5,19 +5,13 @@ This README would normally document whatever steps are necessary to get the appl
 Things you might want to cover:
 
 * Requirements
-
-
 * Dependencies
 ```
   bunde install
 ```
 
 * Configuration
-
-
 * Database setup
-
-
 * How to run the test suite
 ```
   jets server
